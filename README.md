@@ -1,33 +1,18 @@
-# Qamber Abbas — Software Engineer
+# Qamber Abbas
 
-I build end-to-end web products with C#, .NET, React, and TypeScript. I care about clear system boundaries, reliable APIs, maintainable user experiences, and the engineering practices that make software easier to change and operate.
+Software engineer in Melbourne. I build backend services and web applications with C#, .NET and SQL Server, with Angular or Blazor on the front end.
 
-## Featured work
+Currently a Software Engineer at Netwealth, working on .NET services in the reporting domain. Before that: HR and payroll software at Inzenius, and internal business applications at Cancer Council Victoria and A.G. Coombs.
 
-### Interactive Comments
+**Used in production:** C#, .NET, ASP.NET Core, Entity Framework Core, SQL Server, Angular, Blazor, TypeScript
 
-A threaded discussion app with a React and TypeScript frontend and an ASP.NET Core API. It explores nested comment state, API design, automated checks, and a cost-conscious serverless deployment.
+**Used in personal projects:** React, AWS Lambda and API Gateway, GitHub Actions
 
-- [Live demo](https://qambershah.github.io/interactive-comments-react/)
-- [Source](https://github.com/qambershah/interactive-comments-react)
+## Projects
 
-The demo API currently keeps data in memory and has no sign-in. It is intentionally a low-cost portfolio project, not a production discussion service.
+- [Interactive Comments](https://github.com/qambershah/interactive-comments-react): threaded comments with a React frontend and an ASP.NET Core API on AWS Lambda. Built to learn React; data is held in memory. [Live demo](https://qambershah.github.io/interactive-comments-react/)
+- [Portfolio](https://github.com/qambershah/portfolio): this profile's [website](https://qambershah.github.io/portfolio/), a single-page Blazor WebAssembly app on .NET 10.
 
-### Portfolio
+## Contact
 
-A Blazor WebAssembly portfolio built with .NET 10 and MudBlazor, with tested project data loading and an automated GitHub Pages deployment.
-
-- [Live site](https://qambershah.github.io/portfolio/)
-- [Source](https://github.com/qambershah/portfolio)
-
-## Engineering focus
-
-- System design, API boundaries, and domain modelling
-- Reliability, test strategy, and maintainable code
-- CI/CD, cloud deployment, and operational visibility
-- React, TypeScript, C#, .NET, and AWS
-
-## Connect
-
-- [LinkedIn](https://linkedin.com/in/qamber9abbas)
-- [Portfolio](https://qambershah.github.io/portfolio/)
+[LinkedIn](https://linkedin.com/in/qamber9abbas) · [Email](mailto:qamber9abbas@gmail.com)
